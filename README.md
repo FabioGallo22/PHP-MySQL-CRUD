@@ -13,7 +13,7 @@ This app includes:
 
 **Next steps:**
 - In updating a product, include 'image' field.
-- Add table 'categories' and connecte to 'products' as a foreing key.
-- Add a search option.
+- Add table 'categories' and connect to 'products' as a foreing key.
+- Add a _search_ option.
 - Add a menu bar.
-- Add user login (which implies, add a 'users' table to the database).
+- Add _user login_ (which implies, add a 'users' table to the database).
